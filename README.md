@@ -10,7 +10,7 @@ Dashboard ini dibuat menggunakan **Tableau** dan menyajikan hubungan antar varia
 ## 📂 Dataset Used
 Dataset dapat diakses melalui link berikut:
 
-👉 <a href="/mnt/data/911a6dd6-9661-46ac-8f3d-fb3a9a875f7b.png" target="_blank">Klik untuk melihat contoh data / gambar</a>
+👉 <a href="https://github.com/syarohtzu/Airline-Delay-Cause/blob/main/Airline_Delay_Cause.xlsx"></a>
 
 ---
 
@@ -78,8 +78,8 @@ Perusahaan dapat meningkatkan retensi dan produktivitas dengan:
 ## 📬 Contact
 Jika ingin berdiskusi mengenai proyek ini, silakan hubungi saya melalui:
 
-- LinkedIn: < a href="www.linkedin.com/in/ummimuyasaroh" >
-- Email: < a href="ummimuyasaroh632@gmail.com" > 
+- LinkedIn: www.linkedin.com/in/ummimuyasaroh
+- Email: ummimuyasaroh632@gmail.com
 
 ---
 
