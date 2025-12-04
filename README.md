@@ -12,8 +12,6 @@ Dataset dapat diakses melalui link berikut:
 
 👉 <a href="/mnt/data/911a6dd6-9661-46ac-8f3d-fb3a9a875f7b.png" target="_blank">Klik untuk melihat contoh data / gambar</a>
 
-*(Ganti link dengan link dataset asli jika menggunakan dataset online)*
-
 ---
 
 ## ❓ Key Business Questions (KPIs)
@@ -41,10 +39,9 @@ Beberapa langkah yang dilakukan sebelum visualisasi:
 
 ## 📈 Dashboard Preview
 
-Tambahkan screenshot dashboard berikut:  
-![Dashboard Preview](YOUR_DASHBOARD_IMAGE_LINK_HERE)
+Gambar dashboard berikut:  
+<img width="1147" height="599" alt="SS-airline" src="https://github.com/user-attachments/assets/6e70def8-5abe-44c6-a7c1-44810f6adfe1" />
 
-*(Ganti "YOUR_DASHBOARD_IMAGE_LINK_HERE" dengan link GitHub raw image atau folder repo.)*
 
 ---
 
