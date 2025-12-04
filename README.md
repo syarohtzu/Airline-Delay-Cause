@@ -78,8 +78,8 @@ Perusahaan dapat meningkatkan retensi dan produktivitas dengan:
 ## 📬 Contact
 Jika ingin berdiskusi mengenai proyek ini, silakan hubungi saya melalui:
 
-- LinkedIn: *tambahkan link*  
-- Email: *tambahkan email*  
+- LinkedIn: < a href="www.linkedin.com/in/ummimuyasaroh" >
+- Email: < a href="ummimuyasaroh632@gmail.com" > 
 
 ---
 
