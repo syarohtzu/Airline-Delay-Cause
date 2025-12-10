@@ -12,6 +12,9 @@ Dataset dapat diakses melalui link berikut:
 
 👉 <a href="https://github.com/syarohtzu/Airline-Delay-Cause/blob/main/Airline_Delay_Cause.xlsx"></a>
 
+## 📂 Tableau Dashboard
+👉 <a href= "https://public.tableau.com/views/Airline_Delay_Causee/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> </a>
+
 ---
 
 ## ❓ Key Business Questions (KPIs)
